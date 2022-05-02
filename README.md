@@ -70,7 +70,7 @@ Three types of users will be using this application(AGENT, BUYER , SELLER and AD
 ### External Interface Requirements
 ### User Interfaces
    - **Home Page**
-![Home](https://user-images.githubusercontent.com/56253080/163601690-ef6e725a-518c-48e3-b22a-4502533efed3.png)
+![Home](Docs/ASSETS/Home.png)
 
    - **Login**
 ![login](https://user-images.githubusercontent.com/56253080/163601740-8cae7409-7f7d-43ab-91f7-a5e6d4d79c97.png)
